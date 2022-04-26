@@ -9,6 +9,14 @@
 ---
 
 <div align="center">
+  
+  ![snake gif](https://github.com/AVor0n/AVor0n/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  
+</div>
+
+---
+
+<div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avor0n&layout=compact&theme=outrun&langs_count=10" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=avor0n&layout=compact&langs_count=10&hide=other&custom_title=Wakatime%20week%20stats&theme=outrun" />
 </div>
