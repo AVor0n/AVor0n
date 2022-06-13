@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <p>
 <img src="https://wakatime.com/badge/user/aeadcb88-2059-418d-8c84-15147dd38bf5.svg" />
@@ -6,13 +6,13 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=avor0n.avor0n" />
 </p>
 
----
+<!-- ---
 
 <div align="center">
   
   ![snake gif](https://github.com/AVor0n/AVor0n/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   
-</div>
+</div> -->
 
 ---
 
@@ -27,9 +27,11 @@
 
 ---
 
+<!-- 
+
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <img src="https://github-profile-trophy.vercel.app/?username=avor0n&column=8&theme=radical&no-frame=true"/>
-
+ -->
 
 <!--
 **AVor0n/AVor0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
