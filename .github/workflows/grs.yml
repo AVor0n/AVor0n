@@ -16,7 +16,7 @@ jobs:
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=outrun
-          path: profile/stats.svg
+          path: profile/stats2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
@@ -24,7 +24,7 @@ jobs:
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=outrun
-          path: profile/top-langs.svg
+          path: profile/top-langs2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
