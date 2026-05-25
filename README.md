@@ -17,8 +17,8 @@
 ---
 
 <div align="center">
-  <img height="200" src="./profile/top-langs.svg" />
-  <img height="200" src="./profile/stats.svg" />
+  <img height="200" src="./profile/top-langs2.svg" />
+  <img height="200" src="./profile/stats2.svg" />
 </div>
 
 <!-- <div align="center">
